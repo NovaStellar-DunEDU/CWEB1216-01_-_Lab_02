@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Amy_Lee___CWEB1216_01___Lab_2
+namespace NovaStellar_DunEDU___CWEB1216_01___Lab_2
 {
     internal class Program
     {
@@ -81,3 +81,4 @@ namespace Amy_Lee___CWEB1216_01___Lab_2
         }
     }
 }
+
