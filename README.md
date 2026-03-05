@@ -1,4 +1,4 @@
-App Design 2 - Lab 2
+Lab 02 - Java / Eclipse
 
 This is how it looks in Java:
 
