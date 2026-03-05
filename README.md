@@ -1,4 +1,4 @@
-Lab 02 - Java / Eclipse - 2/17/2026
+Lab 02 - Java / Eclipse - C# / Visual Studio - 2/17/2026
 
 This is how it looks in Java:
 
